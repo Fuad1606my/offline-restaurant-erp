@@ -1,8 +1,15 @@
-// Week 1: Variables and data types
-const restaurantName = 'Campus Bistro'
-const tableCount = 12
-const isOpen = true
+// Restaurant Information
 
-console.log('Restaurant:', restaurantName)
-console.log('Tables:', tableCount)
-console.log('Open now:', isOpen)
+const restaurantName = 'Kacchi Vai'
+const tableCount = 12
+const totalStaff = 8
+const isOpen = true
+const location = 'Dhaka, Bangladesh'
+
+// Display Restaurant Information
+
+console.log('Restaurant Name:', restaurantName)
+console.log('Total Tables:', tableCount)
+console.log('Total Staff:', totalStaff)
+console.log('Currently Open:', isOpen)
+console.log('Location:', location)
